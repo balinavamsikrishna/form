@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(66, 85, 109)
+}
+form{
+    
+    display: inline-block;
+    
+    
+}
+#b{
+    width: 275px;
+}
+label{
+    float: left;
+    color: white;
+}
+input{
+    float: left;
+    border-radius: 5px;
+    font-weight:bold;
+    color:black;
+    height: 30px;
+}
+#box{
+    width: 550px;
+}
+.box{
+    width: 550px;
+    height: 100px;
+    text-align:top;
+}
+button{
+    padding: 3px;
+    border-radius: 5px;
+    background-color: greenyellow;
+}
+h1{
+    color: tomato;
+}
